@@ -1,3 +1,3 @@
 Collaboration Demo Project
-Version 1.0 edited by A
+Version 1.0 edited by A and B
 New feature: This feature provides a clear and detailed description to help contributors understand the project better.
